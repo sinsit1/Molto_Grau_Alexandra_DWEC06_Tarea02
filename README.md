@@ -1,4 +1,4 @@
-# DWEC05 - Tarea 01
+# DWEC06 - Tarea 01
 
 ## ENUNCIADO DE LA TAREA:
 
